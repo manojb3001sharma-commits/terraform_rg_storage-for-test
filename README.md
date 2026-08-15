@@ -1,0 +1,1 @@
+# terraform_rg_storage-for-test
