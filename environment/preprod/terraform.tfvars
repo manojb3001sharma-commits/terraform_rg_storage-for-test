@@ -3,6 +3,10 @@ rgs1 = {
         name = "rg_test"
         location = "centralindia"
     }
+    rg2 = {
+        name = "rg_test1"
+        location = "centralindia"
+    }
 }
 
 strgs1 = {
